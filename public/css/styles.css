@@ -1,0 +1,18 @@
+h1 {
+  color: red;
+}
+img {
+  width: 500px;
+}
+
+input {
+  padding: 10px;
+  border: 1px solid gray;
+}
+
+button {
+  padding: 8px;
+  border: 1px solid gray;
+  color: white;
+  background-color: red;
+}
